@@ -31,13 +31,6 @@ sudo apt-get install libncurses5-dev libncursesw5-dev
 make
 ```
 
-or manually:
-
-```bash
-gcc main.c game.c ui.c deck.c -lncurses -o uno
-```
-
----
 
 ## Run the Game
 
