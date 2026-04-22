@@ -98,8 +98,6 @@ A card can be played if it matches:
 | --------- | --------------------- |
 | Play card | number (e.g., 1,2,3)  |
 | Draw card | D                     |
-| Say UNO   | U + number (e.g., U3) |
-| Help      | H                     |
 
 ---
 
